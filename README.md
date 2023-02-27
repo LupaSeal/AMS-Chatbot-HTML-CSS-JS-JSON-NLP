@@ -23,4 +23,4 @@ To utilize the NLP features: Press on the mic at the Chatbot and ask verbally: D
                              ASK David verbally: All OK David?
                                                  What is amnesty?
   
-  
+To acquire the necessary videos, kindly navigate to the following hyperlink: https://drive.google.com/drive/folders/1bkwk0jzRuCyFux1Q6CvhZw7xRI69bxg6?usp=sharing.
