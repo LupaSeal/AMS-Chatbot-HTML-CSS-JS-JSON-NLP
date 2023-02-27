@@ -19,7 +19,7 @@ AMS leverages a combination of modals and natural language processing (NLP) tech
 These advanced capabilities serve to optimize interaction, facilitating seamless communication, and promoting efficiency in operations.
 To gain access to the modals: type "outlook" in the Chatbot
                               another example: type "to do" in the Chatbot 
-To utilize the NLP features: Press on the mic at the Chatbot and ask: 
+To utilize the NLP features: Press on the mic at the Chatbot and ask verbally: David Please 
                              ASK David verbally: All OK David?
                                                  What is amnesty?
   
