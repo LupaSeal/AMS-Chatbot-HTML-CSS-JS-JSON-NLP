@@ -17,7 +17,10 @@ AMS serves as a fail-safe in the event of an unexpected reduction in the number 
 
 AMS leverages a combination of modals and natural language processing (NLP) techniques to elevate the experience of internal customers. 
 These advanced capabilities serve to optimize interaction, facilitating seamless communication, and promoting efficiency in operations.
-To gain access to the modals: 
-To utilize the NLP features: 
+To gain access to the modals: type "outlook" in the Chatbot
+                              another example: type "to do" in the Chatbot 
+To utilize the NLP features: Press on the mic at the Chatbot and ask: 
+                             ASK David verbally: All OK David?
+                                                 What is amnesty?
   
   
